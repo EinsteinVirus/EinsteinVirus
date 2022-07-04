@@ -1,4 +1,4 @@
-- 👋 Hi, I’m HetShah
+- 👋 Hi, I’m Het Shah
 - 👀 I’m interested in Cybersecurity, IOT, Embedded System etc.
 - 🌱 I’m currently pursuing an Mtech in CyberSecurity from National Forensic Sciences University, Gandhinagar.
 - ⚡ Fun fact: --> I am a cricket freak, part-time gamer, and I love reading crime fiction.
