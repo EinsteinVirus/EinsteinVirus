@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing an Mtech in CyberSecurity from National Forensic Sciences University, Gandhinagar.
 - ⚡ Fun fact: --> I am a cricket freak, part-time gamer, and I love reading crime fiction.
 
-## 🔧 Known Tools and Technology
+## 🔧 What I think I know :upside_down_face:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C?style=plastic&logo=c%2B%2B&logoColor=white)
