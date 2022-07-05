@@ -13,4 +13,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 
+<div align=center>
+
 [![Het's github stats](https://github-readme-stats.vercel.app/api?username=EinsteinVirus&count_private=true&show_icons=true&theme=blue-green&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
