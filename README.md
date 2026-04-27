@@ -6,8 +6,8 @@
 
 Risk Assessment · Threat Detection · OT/ICS Security · Incident Response
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Het_Shah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Het_Shah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-shah99)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hetshah1199@gmail.com)
 [![Location](https://img.shields.io/badge/📍-North_Carolina,_USA-2ea44f?style=flat-square)](#)
 
 </div>
