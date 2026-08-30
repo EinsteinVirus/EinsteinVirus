@@ -89,10 +89,9 @@ I'm a cybersecurity professional with hands-on experience across **IT/OT securit
 
 <div align="center">
 
-![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EinsteinVirus&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 
 <br/>
 
-*Open to roles in Security Analysis · GRC · OT Security · Incident Response*
+*Open to roles in Security · GRC · OT Security · Incident Response*
 
 </div>
